@@ -22,54 +22,54 @@ Estoy desarrollando LootSniper, un SaaS híbrido de rastreo de precios. Utiliza 
 
 **💻 Programming Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Assembly-4D4D4D?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+  <img src="/apolo176/apolo176/raw/main/img/lang/java.png" width="32" height="32" title="Java" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/lang/typescript.png" width="32" height="32" title="TypeScript" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/lang/javascript.png" width="32" height="32" title="JavaScript" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/lang/cpp.png" width="32" height="32" title="C++" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/lang/assembly.png" width="32" height="32" title="Assembly" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/lang/python.png" width="32" height="32" title="Python" style="max-width: 100%; height: auto; max-height: 32px;">
 </p>
 
 **🗄️ Databases**
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="/apolo176/apolo176/raw/main/img/db/mysql.png" width="32" height="32" title="MySQL" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/db/mongodb.png" width="32" height="32" title="MongoDB" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/db/firebase.png" width="32" height="32" title="Firebase" style="max-width: 100%; height: auto; max-height: 32px;">
 </p>
 
 **🔐 CyberSecurity**
 <p align="left">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549A?style=for-the-badge&logo=owasp&logoColor=white" alt="ZAP" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="/apolo176/apolo176/raw/main/img/sec/burpsuite.png" width="32" height="32" title="Burp Suite" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/sec/zap.png" width="32" height="32" title="OWASP ZAP" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/sec/wireshark.png" width="32" height="32" title="Wireshark" style="max-width: 100%; height: auto; max-height: 32px;">
 </p>
 
 **⚙️ System Administration**
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-  <img src="https://img.shields.io/badge/Wine-AE0000?style=for-the-badge&logo=wine&logoColor=white" alt="Wine" />
+  <img src="/apolo176/apolo176/raw/main/img/sys/docker.png" width="32" height="32" title="Docker" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/sys/virtualbox.png" width="32" height="32" title="VirtualBox" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/sys/wine.png" width="32" height="32" title="Wine" style="max-width: 100%; height: auto; max-height: 32px;">
 </p>
 
 **🔀 Version Control**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  <img src="/apolo176/apolo176/raw/main/img/vcs/git.png" width="32" height="32" title="Git" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/vcs/github.png" width="32" height="32" title="GitHub" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/vcs/bitbucket.png" width="32" height="32" title="Bitbucket" style="max-width: 100%; height: auto; max-height: 32px;">
 </p>
 
 **📝 Documentation**
 <p align="left">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="/apolo176/apolo176/raw/main/img/doc/latex.png" width="32" height="32" title="LaTeX" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/doc/markdown.png" width="32" height="32" title="Markdown" style="max-width: 100%; height: auto; max-height: 32px;">
 </p>
 
 **💻 IDEs**
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
+  <img src="/apolo176/apolo176/raw/main/img/ide/vscode.png" width="32" height="32" title="VS Code" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/ide/pycharm.png" width="32" height="32" title="PyCharm" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/ide/phpstorm.png" width="32" height="32" title="PhpStorm" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/ide/eclipse.png" width="32" height="32" title="Eclipse" style="max-width: 100%; height: auto; max-height: 32px;">
 </p>
 
 ### 🗂️ Arquitectura de Repositorios
