@@ -30,6 +30,14 @@ Estoy desarrollando LootSniper, un SaaS híbrido de rastreo de precios. Utiliza 
   <img src="/apolo176/apolo176/raw/main/img/lang/python.png" width="32" height="32" title="Python" style="max-width: 100%; height: auto; max-height: 32px;">
 </p>
 
+**🌐 Web Develop**
+<p align="left">
+  <img src="/apolo176/apolo176/raw/main/img/web/react.png" width="32" height="32" title="Java" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/web/tailwind.png" width="32" height="32" title="TypeScript" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/web/laravel.png" width="32" height="32" title="TypeScript" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/apolo176/apolo176/raw/main/img/web/bootstrap.png" width="32" height="32" title="TypeScript" style="max-width: 100%; height: auto; max-height: 32px;">
+
+</p>
 **🗄️ Databases**
 <p align="left">
   <img src="/apolo176/apolo176/raw/main/img/db/mysql.png" width="32" height="32" title="MySQL" style="max-width: 100%; height: auto; max-height: 32px;">
