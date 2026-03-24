@@ -1,4 +1,4 @@
-#⚡ Eder | Full Stack Software Engineer
+# ⚡ Eder | Full Stack Software Engineer
 TypeScript
 const ederProfile: SoftwareEngineer = {
   location: "Bilbao, Basque Country 📍",
