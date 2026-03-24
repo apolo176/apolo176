@@ -4,17 +4,17 @@
 const ederProfile: SoftwareEngineer = {
   location: "Bilbao, Basque Country 📍",
   level: "Mid-Level / +4 Years Experience",
-  focus: ["Scalable Web Apps", "Data Extraction", "Cloud Architecture"],
+  focus: ["Scalable Web Apps", "Data Extraction", "Cloud Architecture", "AI Solutions"],
   currentProject: "LootSniper 🎯 (Real-time price intelligence SaaS)",
   philosophy: "Write clean code, solve real business problems."
 };
 👨‍💻 Sobre mí
-Soy un desarrollador Full Stack especializado en el ecosistema JavaScript/TypeScript y Python. Mi enfoque no es solo escribir código, sino construir productos que aporten valor real. Actualmente compagino mis últimos meses de Ingeniería Informática con el desarrollo de soluciones arquitectónicas completas.
+Soy un desarrollador Full Stack especializado en el ecosistema JavaScript/TypeScript y php. Mi enfoque no es solo escribir código, sino construir productos que aporten valor real. Actualmente compagino mis últimos meses de Ingeniería Informática con el desarrollo de soluciones digitales en NireStream.
 
 ¿Qué estoy construyendo ahora?
 Estoy desarrollando LootSniper, un SaaS híbrido de rastreo de precios. Utiliza Python (con bypass de bloqueos) para el scraping en tiempo real de plataformas como eBay o Chollometro, inyecta los datos en una base de datos MySQL, y los sirve a través de una API REST (Node.js) a un Dashboard analítico construido en React + TypeScript + Tailwind.
 
-📫 Contacto: TuEmail@email.com | LinkedIn
+📫 Contacto: edev.pr@gmail.com | LinkedIn
 
 🛠️ Stack Principal
 <p align="left">
@@ -28,5 +28,5 @@ Estoy desarrollando LootSniper, un SaaS híbrido de rastreo de precios. Utiliza 
 
 📈 Actividad en Código
 <div align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTU_USUARIO_AQUI%26show_icons%3Dtrue%26theme%3Dnord%26hide_border%3Dtrue%26bg_color%3D0f1419" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dapolo176%26show_icons%3Dtrue%26theme%3Dnord%26hide_border%3Dtrue%26bg_color%3D0f1419" alt="GitHub Stats" />
 </div>
