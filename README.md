@@ -1,5 +1,5 @@
 # ⚡ Eder | Full Stack Software Engineer
-TypeScript
+
 const ederProfile: SoftwareEngineer = {
   location: "Bilbao, Basque Country 📍",
   level: "Mid-Level / +4 Years Experience",
