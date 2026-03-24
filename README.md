@@ -22,62 +22,62 @@ Estoy desarrollando LootSniper, un SaaS híbrido de rastreo de precios. Utiliza 
 
 **💻 Programming Languages**
 <p align="left">
-  <img src="/img/lang/java.png" width="32" height="32" title="Java" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/lang/typescript.png" width="32" height="32" title="TypeScript" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/lang/javascript.png" width="32" height="32" title="JavaScript" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/lang/cpp.png" width="32" height="32" title="C++" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/lang/assembly.png" width="32" height="32" title="Assembly" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/lang/python.png" width="32" height="32" title="Python" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/img/lang/java.png" width="48" height="48" title="Java" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/lang/typescript.png" width="48" height="48" title="TypeScript" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/lang/javascript.png" width="48" height="48" title="JavaScript" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/lang/cpp.png" width="48" height="48" title="C++" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/lang/assembly.png" width="48" height="48" title="Assembly" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/lang/python.png" width="48" height="48" title="Python" style="max-width: 100%; height: auto; max-height: 48px;">
 </p>
 
 **🌐 Web Develop**
 <p align="left">
-  <img src="/img/web/react.png" width="32" height="32" title="Java" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/web/tailwind.png" width="32" height="32" title="TypeScript" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/web/laravel.png" width="32" height="32" title="TypeScript" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/web/bootstrap.png" width="32" height="32" title="TypeScript" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/img/web/react.png" width="48" height="48" title="Java" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/web/tailwind.png" width="48" height="48" title="TypeScript" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/web/laravel.png" width="48" height="48" title="TypeScript" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/web/bootstrap.png" width="48" height="48" title="TypeScript" style="max-width: 100%; height: auto; max-height: 48px;">
 
 </p>
 **🗄️ Databases**
 <p align="left">
-  <img src="/img/db/mysql.png" width="32" height="32" title="MySQL" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/db/mongodb.png" width="32" height="32" title="MongoDB" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/db/firebase.png" width="32" height="32" title="Firebase" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/img/db/mysql.png" width="48" height="48" title="MySQL" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/db/mongodb.png" width="48" height="48" title="MongoDB" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/db/firebase.png" width="48" height="48" title="Firebase" style="max-width: 100%; height: auto; max-height: 48px;">
 </p>
 
 **🔐 CyberSecurity**
 <p align="left">
-  <img src="/img/sec/burpsuite.png" width="32" height="32" title="Burp Suite" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/sec/zap.png" width="32" height="32" title="OWASP ZAP" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/sec/wireshark.png" width="32" height="32" title="Wireshark" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/img/sec/burpsuite.png" width="48" height="48" title="Burp Suite" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/sec/zap.png" width="48" height="48" title="OWASP ZAP" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/sec/wireshark.png" width="48" height="48" title="Wireshark" style="max-width: 100%; height: auto; max-height: 48px;">
 </p>
 
 **⚙️ System Administration**
 <p align="left">
-  <img src="/img/sys/docker.png" width="32" height="32" title="Docker" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/sys/virtualbox.png" width="32" height="32" title="VirtualBox" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/sys/wine.png" width="32" height="32" title="Wine" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/img/sys/docker.png" width="48" height="48" title="Docker" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/sys/virtualbox.png" width="48" height="48" title="VirtualBox" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/sys/wine.png" width="48" height="48" title="Wine" style="max-width: 100%; height: auto; max-height: 48px;">
 </p>
 
 **🔀 Version Control**
 <p align="left">
-  <img src="/img/vcs/git.png" width="32" height="32" title="Git" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/vcs/github.png" width="32" height="32" title="GitHub" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/vcs/bitbucket.png" width="32" height="32" title="Bitbucket" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/img/vcs/git.png" width="48" height="48" title="Git" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/vcs/github.png" width="48" height="48" title="GitHub" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/vcs/bitbucket.png" width="48" height="48" title="Bitbucket" style="max-width: 100%; height: auto; max-height: 48px;">
 </p>
 
 **📝 Documentation**
 <p align="left">
-  <img src="/img/doc/latex.png" width="32" height="32" title="LaTeX" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/doc/markdown.png" width="32" height="32" title="Markdown" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/img/doc/latex.png" width="48" height="48" title="LaTeX" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/doc/markdown.png" width="48" height="48" title="Markdown" style="max-width: 100%; height: auto; max-height: 48px;">
 </p>
 
 **💻 IDEs**
 <p align="left">
-  <img src="/img/ide/vscode.png" width="32" height="32" title="VS Code" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/ide/pycharm.png" width="32" height="32" title="PyCharm" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/ide/phpstorm.png" width="32" height="32" title="PhpStorm" style="max-width: 100%; height: auto; max-height: 32px;">
-  <img src="/img/ide/eclipse.png" width="32" height="32" title="Eclipse" style="max-width: 100%; height: auto; max-height: 32px;">
+  <img src="/img/ide/vscode.png" width="48" height="48" title="VS Code" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/ide/pycharm.png" width="48" height="48" title="PyCharm" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/ide/phpstorm.png" width="48" height="48" title="PhpStorm" style="max-width: 100%; height: auto; max-height: 48px;">
+  <img src="/img/ide/eclipse.png" width="48" height="48" title="Eclipse" style="max-width: 100%; height: auto; max-height: 48px;">
 </p>
 
 ### 🗂️ Arquitectura de Repositorios
