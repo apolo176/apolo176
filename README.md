@@ -89,7 +89,7 @@ Para mantener el código limpio y accesible, organizo mi trabajo en dominios. Ha
   <br>
   <p align="center">
     <a href="https://github.com/apolo176/LootSniper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=LootSniper&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="LootSniper" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=LootSniper&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419&v=1" alt="LootSniper" />
     </a>
     <a href="https://github.com/apolo176/FootballPWA">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=FootballPWA&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Otro Proyecto" />
