@@ -91,8 +91,8 @@ Para mantener el código limpio y accesible, organizo mi trabajo en dominios. Ha
     <a href="https://github.com/apolo176/LootSniper">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=LootSniper&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="LootSniper" />
     </a>
-    <a href="https://github.com/apolo176/OtroProyectoPremium">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=OtroProyectoPremium&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Otro Proyecto" />
+    <a href="https://github.com/apolo176/FootballPWA">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=FootballPWA&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Otro Proyecto" />
     </a>
   </p>
 </details>
@@ -101,8 +101,8 @@ Para mantener el código limpio y accesible, organizo mi trabajo en dominios. Ha
   <summary>🎓 <b>University (Ingeniería Informática)</b></summary>
   <br>
   <p align="center">
-    <a href="https://github.com/apolo176/TU_REPO_DE_UNI_AQUI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=TU_REPO_DE_UNI_AQUI&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Uni Repo" />
+    <a href="https://github.com/apolo176//Ingenier-a-Inform-tica-de-Gesti-n-y-Sistemas-de-la-Informaci-n">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=/Ingenier-a-Inform-tica-de-Gesti-n-y-Sistemas-de-la-Informaci-n&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Uni Repo" />
     </a>
   </p>
 </details>
@@ -111,8 +111,8 @@ Para mantener el código limpio y accesible, organizo mi trabajo en dominios. Ha
   <summary>🏫 <b>DAM (Grado Superior)</b></summary>
   <br>
   <p align="center">
-    <a href="https://github.com/apolo176/TU_REPO_DE_DAM_AQUI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=TU_REPO_DE_DAM_AQUI&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="DAM Repo" />
+    <a href="https://github.com/apolo176/DAM">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=DAM&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="DAM Repo" />
     </a>
   </p>
 </details>
@@ -121,8 +121,8 @@ Para mantener el código limpio y accesible, organizo mi trabajo en dominios. Ha
   <summary>🧪 <b>Learning & Sandbox</b></summary>
   <br>
   <p align="center">
-    <a href="https://github.com/apolo176/TU_REPO_DE_PRUEBAS_AQUI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=TU_REPO_DE_PRUEBAS_AQUI&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Sandbox Repo" />
+    <a href="https://github.com/apolo176/Learning">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=Learning&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Sandbox Repo" />
     </a>
   </p>
 </details>
@@ -130,8 +130,8 @@ Para mantener el código limpio y accesible, organizo mi trabajo en dominios. Ha
   <summary>⭐ <b>Ideas</b></summary>
   <br>
   <p align="center">
-    <a href="https://github.com/apolo176/TU_REPO_DE_PRUEBAS_AQUI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=TU_REPO_DE_PRUEBAS_AQUI&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Sandbox Repo" />
+    <a href="https://github.com/apolo176/Ideas">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=Ideas&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Sandbox Repo" />
     </a>
   </p>
 </details>
