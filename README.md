@@ -82,13 +82,59 @@ Estoy desarrollando LootSniper, un SaaS híbrido de rastreo de precios. Utiliza 
 
 ### 🗂️ Arquitectura de Repositorios
 
-Para mantener el código limpio y accesible, organizo mi trabajo en cuatro dominios principales:
+Para mantener el código limpio y accesible, organizo mi trabajo en dominios. Haz clic en cada sección para expandir los repositorios destacados:
 
-* 🚀 **Principal / Core:** Proyectos listos para producción, SaaS y arquitecturas complejas (como LootSniper).
-* 🎓 **University:** Algoritmia, estructuras de datos, sistemas operativos y proyectos de mi grado en Ingeniería Informática.
-* 🏫 **DAM (Grado Superior):** Desarrollo de Aplicaciones Multiplataforma. Proyectos centrados en ecosistema Java, Android y bases de datos relacionales.
-* 🧪 **Learning & Sandbox:** Laboratorio de pruebas. Aquí trasteo con nuevas librerías, *katas* de código y pruebas de concepto.
+<details open>
+  <summary>🚀 <b>Principal / Core (SaaS & Prod)</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/apolo176/LootSniper">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=LootSniper&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="LootSniper" />
+    </a>
+    <a href="https://github.com/apolo176/OtroProyectoPremium">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=OtroProyectoPremium&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Otro Proyecto" />
+    </a>
+  </p>
+</details>
 
+<details>
+  <summary>🎓 <b>University (Ingeniería Informática)</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/apolo176/TU_REPO_DE_UNI_AQUI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=TU_REPO_DE_UNI_AQUI&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Uni Repo" />
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary>🏫 <b>DAM (Grado Superior)</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/apolo176/TU_REPO_DE_DAM_AQUI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=TU_REPO_DE_DAM_AQUI&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="DAM Repo" />
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary>🧪 <b>Learning & Sandbox</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/apolo176/TU_REPO_DE_PRUEBAS_AQUI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=TU_REPO_DE_PRUEBAS_AQUI&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Sandbox Repo" />
+    </a>
+  </p>
+</details>
+<details>
+  <summary>⭐ <b>Ideas</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/apolo176/TU_REPO_DE_PRUEBAS_AQUI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=TU_REPO_DE_PRUEBAS_AQUI&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Sandbox Repo" />
+    </a>
+  </p>
+</details>
 
 ### 📈 Actividad en Código
 
