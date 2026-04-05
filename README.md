@@ -1,159 +1,147 @@
 # ⚡ Eder | Full Stack Software Engineer
 
-```typescript
-const ederProfile: SoftwareEngineer = {
-  location: "Bilbao, Basque Country 📍",
-  level: "Mid-Level / +4 Years Experience",
-  focus: ["Scalable Web Apps", "Data Extraction", "Cloud Architecture"],
-  currentProject: "LootSniper 🎯 (Real-time price intelligence SaaS)",
-  philosophy: "Write clean code, solve real business problems."
-};
-```
-👨‍💻 Sobre mí
-Soy un desarrollador Full Stack especializado en el ecosistema JavaScript/TypeScript, Laravel y Java. Mi enfoque no es solo escribir código, sino construir productos que aporten valor real. Actualmente compagino mis últimos meses de Ingeniería Informática con el desarrollo de soluciones arquitectónicas completas.
+<div align="center">
 
-¿Qué estoy construyendo ahora?
-Estoy desarrollando LootSniper, un SaaS híbrido de rastreo de precios. Utiliza Python (con bypass de bloqueos) para el scraping en tiempo real de plataformas como eBay o Chollometro, inyecta los datos en una base de datos MySQL, y los sirve a través de una API REST (Node.js) a un Dashboard analítico construido en React + TypeScript + Tailwind.
+**Bilbao, Basque Country** • **Mid-Level Developer** • **+4 Years Experience**
 
-📫 Contacto: edev.pr@gmail.com | LinkedIn
+*Construyendo productos escalables que resuelven problemas reales*
 
-🛠️ Tech Stack & Tools
-💻 Programming Languages
+</div>
 
-<p align="left">
-<img src="/img/lang/java.png" width="48" height="48" title="Java" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/lang/typescript.png" width="48" height="48" title="TypeScript" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/lang/javascript.png" width="48" height="48" title="JavaScript" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/lang/cpp.png" width="48" height="48" title="C++" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/lang/assembly.png" width="48" height="48" title="Assembly" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/lang/python.png" width="48" height="48" title="Python" style="max-width: 100%; height: auto; max-height: 48px;">
-</p>
+---
 
-🌐 Web Develop
+## 🎯 Sobre mí
 
-<p align="left">
-<img src="/img/web/react.png" width="48" height="48" title="React" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/web/tailwind.png" width="48" height="48" title="Tailwind" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/web/laravel.png" width="48" height="48" title="Laravel" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/web/bootstrap.png" width="48" height="48" title="Bootstrap" style="max-width: 100%; height: auto; max-height: 48px;">
-</p>
+Desarrollador **Full Stack** especializado en **JavaScript/TypeScript**, **Laravel** y **Java**, con pasión por la arquitectura escalable y la calidad del código. Actualmente compagino los últimos meses de **Ingeniería Informática** con el desarrollo de soluciones empresariales completas.
 
-🗄️ Databases
+Mi filosofía: **escribir código limpio, construir productos valiosos.**
 
-<p align="left">
-<img src="/img/db/mysql.png" width="48" height="48" title="MySQL" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/db/mongodb.png" width="48" height="48" title="MongoDB" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/db/firebase.png" width="48" height="48" title="Firebase" style="max-width: 100%; height: auto; max-height: 48px;">
-</p>
+---
 
-🔐 CyberSecurity
+## 🚀 Proyecto Destacado: LootSniper
 
-<p align="left">
-<img src="/img/sec/burpsuite.png" width="48" height="48" title="Burp Suite" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/sec/zap.png" width="48" height="48" title="OWASP ZAP" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/sec/wireshark.png" width="48" height="48" title="Wireshark" style="max-width: 100%; height: auto; max-height: 48px;">
-</p>
+**SaaS híbrido de rastreo de precios en tiempo real**
 
-⚙️ System Administration
+<div align="center">
 
-<p align="left">
-<img src="/img/sys/docker.png" width="48" height="48" title="Docker" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/sys/virtualbox.png" width="48" height="48" title="VirtualBox" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/sys/wine.png" width="48" height="48" title="Wine" style="max-width: 100%; height: auto; max-height: 48px;">
-</p>
+| Componente | Stack |
+|-----------|-------|
+| **Web Scraping** | Python + Bypass de bloqueos |
+| **Base de Datos** | MySQL |
+| **Backend** | Node.js + REST API |
+| **Frontend** | React + TypeScript + Tailwind CSS |
+| **Plataformas** | eBay, Chollometro, Mercadolibre |
 
-🔀 Version Control
+</div>
 
-<p align="left">
-<img src="/img/vcs/git.png" width="48" height="48" title="Git" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/vcs/github.png" width="48" height="48" title="GitHub" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/vcs/bitbucket.png" width="48" height="48" title="Bitbucket" style="max-width: 100%; height: auto; max-height: 48px;">
-</p>
+📍 [Ver LootSniper en GitHub](https://github.com/apolo176/LootSniper)
 
-📝 Documentation
+---
 
-<p align="left">
-<img src="/img/doc/latex.png" width="48" height="48" title="LaTeX" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/doc/markdown.png" width="48" height="48" title="Markdown" style="max-width: 100%; height: auto; max-height: 48px;">
-</p>
+## 🛠️ Tech Stack
 
-💻 IDEs
+### 💻 Lenguajes de Programación
 
-<p align="left">
-<img src="/img/ide/vscode.png" width="48" height="48" title="VS Code" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/ide/pycharm.png" width="48" height="48" title="PyCharm" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/ide/phpstorm.png" width="48" height="48" title="PhpStorm" style="max-width: 100%; height: auto; max-height: 48px;">
-<img src="/img/ide/eclipse.png" width="48" height="48" title="Eclipse" style="max-width: 100%; height: auto; max-height: 48px;">
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=intel&logoColor=white)
 
-🗂️ Arquitectura de Repositorios
-<details open>
-<summary>🚀 <b>Principal / Core (SaaS & Prod)</b></summary>
+### 🌐 Desarrollo Web & Frameworks
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/apolo176/LootSniper">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dapolo176%26repo%3DLootSniper%26theme%3Dnord%26show_icons%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0f1419" alt="LootSniper" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/apolo176/FootballPWA">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dapolo176%26repo%3DFootballPWA%26theme%3Dnord%26show_icons%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0f1419" alt="FootballPWA" />
-</a>
-</p>
-</details>
+### 🗄️ Bases de Datos
 
-<details>
-<summary>🎓 <b>University (Ingeniería Informática)</b></summary>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 🔐 Seguridad & DevOps
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/apolo176/Ingenier-a-Inform-tica-de-Gesti-n-y-Sistemas-de-la-Informaci-n">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dapolo176%26repo%3DIngenier-a-Inform-tica-de-Gesti-n-y-Sistemas-de-la-Informaci-n%26show_icons%3Dtrue%26theme%3Dnord%26hide_border%3Dtrue%26bg_color%3D0f1419" alt="Uni Repo" />
-</a>
-</p>
-</details>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-010101?style=for-the-badge&logo=owasp&logoColor=white)
 
-<details>
-<summary>🏫 <b>DAM (Grado Superior)</b></summary>
+### 💼 Herramientas & IDEs
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/apolo176/DAM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=DAM&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="DAM Repo" />
-</a>
-</p>
-</details>
+---
 
-<details>
-<summary>🧪 <b>Learning & Sandbox</b></summary>
+## 📁 Repositorios Principales
 
+### 🎯 Core & Producción
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/apolo176/Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=Learning&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Sandbox Repo" />
-</a>
-</p>
-</details>
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [**LootSniper**](https://github.com/apolo176/LootSniper) | SaaS de rastreo de precios en tiempo real | React • Node.js • Python • MySQL |
+| [**FootballPWA**](https://github.com/apolo176/FootballPWA) | Progressive Web App para estadísticas de fútbol | React • TypeScript • Tailwind |
 
-<details>
-<summary>⭐ <b>Ideas</b></summary>
+### 🎓 Académico
 
+- [**Ingeniería Informática**](https://github.com/apolo176/Ingenier-a-Inform-tica-de-Gesti-n-y-Sistemas-de-la-Informaci-n) - Trabajos del grado universitario
+- [**DAM (Grado Superior)**](https://github.com/apolo176/DAM) - Proyectos del Desarrollo de Aplicaciones Multiplataforma
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/apolo176/Ideas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=Ideas&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Ideas Repo" />
-</a>
-</p>
-</details>
+### 🧪 Aprendizaje & Experimentación
 
-📊 Actividad en Código
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/apolo176">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dapolo176%26show_icons%3Dtrue%26theme%3Dnord%26hide_border%3Dtrue%26bg_color%3D0f1419%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="GitHub Stats" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/apolo176">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolo176&layout=compact&theme=nord&hide_border=true&bg_color=0f1419" alt="Top Languages" />
-</a>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apolo176&theme=nord&hide_border=true&background=0f1419" alt="GitHub Streak" />
-</p>
+- [**Learning & Sandbox**](https://github.com/apolo176/Learning) - Experimentos y prácticas de desarrollo
+- [**Ideas**](https://github.com/apolo176/Ideas) - Inspiraciones y conceptos futuros
+
+---
+
+## 📊 Estadísticas de Actividad
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apolo176&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419&count_private=true&include_all_commits=true)](https://github.com/apolo176)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apolo176&layout=compact&theme=nord&hide_border=true&bg_color=0f1419&langs_count=8)](https://github.com/apolo176)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apolo176&theme=nord&hide_border=true&background=0f1419)](https://github.com/apolo176)
+
+</div>
+
+---
+
+## 💡 Habilidades Clave
+
+- ✅ **Arquitectura Escalable** - Diseño de sistemas que crecen
+- ✅ **Scraping & Data Extraction** - Extracción inteligente de datos
+- ✅ **Full Stack Development** - Frontend to Backend
+- ✅ **Cloud Architecture** - Soluciones en la nube
+- ✅ **REST APIs** - Diseño e implementación
+- ✅ **Cybersecurity Basics** - Testing y vulnerabilidades web
+
+---
+
+## 🔗 Conecta Conmigo
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edev.pr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ede](https://www.linkedin.com/in/eder-torres-288b733b9/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apolo176)
+
+</div>
+
+---
+
+<div align="center">
+
+**¿Construyendo algo interesante?** | **¿Colaboración?** | **¿Preguntas?**
+
+*📧 Contactame: edev.pr@gmail.com*
+
+---
+
+</div>
