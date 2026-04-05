@@ -80,22 +80,23 @@ Estoy desarrollando LootSniper, un SaaS híbrido de rastreo de precios. Utiliza 
   <img src="/img/ide/eclipse.png" width="48" height="48" title="Eclipse" style="max-width: 100%; height: auto; max-height: 48px;">
 </p>
 
-### 🗂️ Arquitectura de Repositorios
-
-Para mantener el código limpio y accesible, organizo mi trabajo en dominios. Haz clic en cada sección para expandir los repositorios destacados:
-
+###  🗂️ Arquitectura de Repositorios
 <details open>
-  <summary>🚀 <b>Principal / Core (SaaS & Prod)</b></summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/apolo176/LootSniper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=LootSniper&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419&v=1" alt="LootSniper" />
-    </a>
-    <a href="https://github.com/apolo176/FootballPWA">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo176&repo=FootballPWA&show_icons=true&theme=nord&hide_border=true&bg_color=0f1419" alt="Otro Proyecto" />
-    </a>
-  </p>
+<summary>🚀 <b>Principal / Core (SaaS & Prod)</b></summary>
+
+
+<p align="center">
+<a href="https://github.com/apolo176/LootSniper">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dapolo176%26repo%3DLootSniper%26theme%3Dnord%26show_icons%3Dtrue" alt="LootSniper" />
+</a>
+<a href="https://github.com/apolo176/FootballPWA">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dapolo176%26repo%3DFootballPWA%26theme%3Dnord%26show_icons%3Dtrue" alt="FootballPWA" />
+</a>
+</p>
 </details>
+
+<details>
+<summary>🎓 <b>University (Ingeniería Informática)</b></summary>
 
 <details>
   <summary>🎓 <b>University (Ingeniería Informática)</b></summary>
